@@ -21,4 +21,4 @@ Styling: CSS3 (Responsive Design)
 
 Language: JavaScript (ES6+)
 
-IDE: VS Code / IntelliJ IDEA
+IDE: VS Code

@@ -17,7 +17,7 @@ Perfect for learning hooks, state management, and React component structure
 
 Frontend: React.js
 
-Styling: CSS3 (Responsive Design)
+Styling: CSS3 (Responsive)
 
 Language: JavaScript
 
